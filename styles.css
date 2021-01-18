@@ -1,0 +1,55 @@
+body {
+  color: rgb(56, 55, 55);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.6em;
+  background-color: ivory;
+}
+
+.black-border {
+  border: 2px solid rgb(235, 54, 54);
+  color: solid black;
+  padding-top: 10px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+
+  /*padding: 10px 5px;*/
+}
+
+.welkom {
+  color: royalblue;
+}
+
+.container {
+  margin: 20px;
+  padding: 10px;
+}
+
+.center {
+  text-align: center;
+}
+
+.center1 {
+  margin: 0 auto;
+  width: 90%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li:hover {
+  background-color: rgb(236, 176, 176);
+}
